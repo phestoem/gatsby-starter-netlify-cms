@@ -61,6 +61,7 @@ collections:
       - file: "src/pages/project/index.md"
         label: "Project Page"
         name: "project"
+        create: true
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "project-page"}
           - {label: Title, name: title, widget: string}
