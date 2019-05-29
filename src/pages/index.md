@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Tanzania Diaspora Technology Power house
-image: /img/home-jumbotron.jpg
+image: /img/refresh-sliders-1920x700-purpose11.jpg
 heading: Great coffee with a conscience
 subheading: Tanzania will be build by Tanzanians
 mainpitch:
