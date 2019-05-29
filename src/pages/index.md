@@ -1,16 +1,16 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Tanzania Diaspora Technology Power house
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Tanzania will be build by Tanzanians
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: In brief
+  description: >-
+    As a Tanzanian community in the diaspora, we are a powerhouse comprising of
+    various talents and skills in a wide range of information technology
+    spectrum. For that, we are set to build some leading technology solutions to
+    solve our problems.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
@@ -68,3 +68,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
